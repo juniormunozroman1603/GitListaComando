@@ -1,18 +1,18 @@
 # GitListaComando
 > Lista de Comandos Memorias
 
-**Crear carpeta**  
+>> **Crear carpeta**  
 mkdir escenario1
 
-**Listar Archivos**  
+>> **Listar Archivos**  
 ls -la
 
 **Iniciar registro en Git**  
 git init
 
 **Crear Archivo**  
-echo "# primera linea de un fichero readme.md" > readme.md
-nano .gitignore (para no considerar en los commits)
+echo "# primera linea de un fichero readme.md" > readme.md  
+nano .gitignore (para no considerar en los commits)  
 .*tmp
 
 **Verificar Status de Cambios**  
