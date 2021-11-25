@@ -1,10 +1,10 @@
 # GitListaComando
 > Lista de Comandos Memorias
 
->> **Crear carpeta**  
+## **Crear carpeta**  
 mkdir escenario1
 
->> **Listar Archivos**  
+## **Listar Archivos**  
 ls -la
 
 **Iniciar registro en Git**  
